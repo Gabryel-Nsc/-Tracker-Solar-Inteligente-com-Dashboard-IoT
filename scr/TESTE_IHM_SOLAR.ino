@@ -8,7 +8,7 @@
 #include "web_server.h"
 
 // ==========================================
-// CONFIGURAÇÕES E PINOS
+// CONFIGURAÇÕES E PINOS (Gabriel)
 // ==========================================
 const char* ssid = "GABRIEL";
 const char* password = "Biel_32150757";
